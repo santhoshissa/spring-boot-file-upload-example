@@ -6,7 +6,7 @@
 
     <groupId>com.hendisantika</groupId>
     <artifactId>spring-boot-file-upload</artifactId>
-    <packaging>jar</packaging>
+    <packaging>war</packaging>
     <version>1.0</version>
 
     <parent>
